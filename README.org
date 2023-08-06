@@ -2,9 +2,8 @@
 
 Bitcoin Protocol components in Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/rodentrabies/bp.git   |
-| commit  | 64128c1  |
-| systems | bp |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------|
+| source  | git:https://github.com/rodentrabies/bp.git |
+| commit  | 5900cd0
+| systems | bp                                         |
+|---------+--------------------------------------------|
