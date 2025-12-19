@@ -1,9 +1,10 @@
 * bp
 
-Bitcoin Protocol components in Common Lisp
+Bitcoin protocol library for Common Lisp.
 
-|---------+--------------------------------------------|
+|---------+---------------------------------------------|
 | source  | git:https://github.com/rodentrabies/bp.git |
-| commit  | 3e670d9                                    |
-| systems | bp                                         |
-|---------+--------------------------------------------|
+| commit  | 3e670d9                                     |
+| systems | bp                                          |
+|---------+---------------------------------------------|
+
