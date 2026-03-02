@@ -4,7 +4,7 @@ Bitcoin protocol library for Common Lisp.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/rodentrabies/bp.git |
-| commit  | df2375a                                    |
+| commit  | 97cc39b                                    |
 | systems | bp                                         |
 |---------+--------------------------------------------|
 --|
